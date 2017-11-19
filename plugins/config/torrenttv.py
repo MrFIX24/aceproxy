@@ -5,7 +5,7 @@ Torrent-tv.ru Playlist Downloader Plugin configuration file
 '''
 
 # Insert your Torrent-tv.ru playlist URL here
-url = ''
+url = 'http://pomoyka.win/trash/ttv-list/ttv.m3u'
 
 # TV Guide URL
 tvgurl = 'http://api.torrent-tv.ru/ttv.xmltv.xml.gz'
